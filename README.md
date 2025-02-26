@@ -6,4 +6,4 @@
   <b>Introduction</b>
 </h3>
 
-The Tip Calculator application contains various UI elements for calculating a tip, teaching about user input, and State in Compose.
+The Tip Calculator application contains various UI elements for calculating a tip, like user input, and State in Compose.
